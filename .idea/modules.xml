@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-ajax/springboot-ajax.iml" filepath="$PROJECT_DIR$/springboot-ajax/springboot-ajax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-conf-prop/springboot-conf-prop.iml" filepath="$PROJECT_DIR$/springboot-conf-prop/springboot-conf-prop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-file-upload/springboot-file-upload.iml" filepath="$PROJECT_DIR$/springboot-file-upload/springboot-file-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-jsp/springboot-jsp.iml" filepath="$PROJECT_DIR$/springboot-jsp/springboot-jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-nonweb-app/springboot-nonweb-app.iml" filepath="$PROJECT_DIR$/springboot-nonweb-app/springboot-nonweb-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-thymeleaf/springboot-thymeleaf.iml" filepath="$PROJECT_DIR$/springboot-thymeleaf/springboot-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-tutorial.iml" filepath="$PROJECT_DIR$/springboot-tutorial.iml" />
+    </modules>
+  </component>
+</project>

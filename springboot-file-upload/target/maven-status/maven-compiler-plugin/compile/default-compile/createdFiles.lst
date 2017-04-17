@@ -1,0 +1,6 @@
+com/ideajava/controller/IndexController.class
+com/ideajava/exception/CustomError.class
+com/ideajava/SpringBootWebApplication.class
+com/ideajava/model/UploadModel.class
+com/ideajava/exception/RestGlobalExceptionHandler.class
+com/ideajava/controller/RestUploadController.class
